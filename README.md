@@ -42,19 +42,19 @@ pip install pandas numpy matplotlib scikit-learn contextily geopandas shapely de
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/nyc-taxi-demand-route-optimization.git
+git clone https://github.com/yashpips/Taxi-Demand-Prediction-and-Route-Optimization.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd nyc-taxi-demand-route-optimization
+cd Taxi-Demand-Prediction-and-Route-Optimization
 ```
 
 3. Run the main script to execute the entire pipeline:
 
 ```bash
-python main_script.py
+python main.py
 ```
 
 ## Data Preprocessing
@@ -76,3 +76,4 @@ The project includes a genetic algorithm for optimizing taxi routes. The `distan
 ## Contributing
 
 Contributions to this project are welcome. You can contribute by adding new features, improving existing code, or fixing issues. Please fork the repository, make your changes, and submit a pull request.
+
